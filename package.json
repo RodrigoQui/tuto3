@@ -1,0 +1,27 @@
+{
+  "name": "tuto3",
+  "version": "1.0.0",
+  "description": "tutorial3",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.1",
+    "jade": "^1.11.0",
+    "mongoose": "^4.12.0",
+    "nodemon": "^1.12.1",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoQui/tuto3.git"
+  },
+  "author": "rodrigoqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoQui/tuto3/issues"
+  },
+  "homepage": "https://github.com/RodrigoQui/tuto3#readme"
+}
